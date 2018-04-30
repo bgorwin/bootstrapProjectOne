@@ -1,23 +1,7 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+<h3>Simple Theme Utilizing Bootstrap 4 - gulp - sass<h3>
 
-Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
+<h5>This is a simple theme used for building your social network. This is a fully responsive website with a simple modern design.</h5>
 
-If you are looking for the alpha6 version [click here](https://github.com/bradtraversy/bs4starter_alpha6)
+<br>
 
-### Version
-
-1.0.0
-
-## Install Dependencies
-
-```bash
-npm install 
-```
-
-## Compile Sass & Run Dev Server
-
-```bash
-npm start
-```
-
-Files are compiled into /src
+<h5>To view this site, please follow this link to check it out! </h5>
