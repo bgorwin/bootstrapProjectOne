@@ -6,8 +6,8 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "Brent Gorwin",
-  "license": "Bgorwindev",
+  "author": "Brad Traversy",
+  "license": "MIT",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
     "font-awesome": "^4.7.0",
